@@ -12,7 +12,7 @@
 
 🎓 Eu estudo [ [Análise e Desenvolvimento de Sistemas](https://www.fiap.com.br/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/) | Tecnólogo ]
 
-👩‍💻 Atualmente eu trabalho como [Engenharia e Suporte Técnico | Projetos de Desenvolvimento] - [The Walt Dinsey Company & ESPN]
+👩‍💻 Atualmente eu trabalho com [Engenharia e Suporte Técnico | Projetos de Desenvolvimento] - [The Walt Dinsey Company & ESPN]
 
 <br>
 
