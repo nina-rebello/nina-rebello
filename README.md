@@ -8,7 +8,7 @@
 
 💻 Eu sou uma desenvolvedora [ Back-End | Front-End | Fullstack ]
 
-🔎 Também sou curiosa sobre [Cloud | IA | Mobile | SQL]
+🔎 Também sou curiosa sobre [Cloud | IA | Mobile | SQL | AWS]
 
 🎓 Eu estudo [ [Análise e Desenvolvimento de Sistemas](https://www.fiap.com.br/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/) | Tecnólogo ]
 
