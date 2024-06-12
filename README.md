@@ -1,8 +1,8 @@
 ### Oie! Sou a Nina 👋
 
-![Nina Rebello](https://infographya.com.br/wp-content/uploads/2019/03/27.03-cont.png)
+<!-- ![Nina Rebello](https://infographya.com.br/wp-content/uploads/2019/03/27.03-cont.png) -->
 
-<br>
+<!-- <br> -->
 
 ### Sobre mim
 
