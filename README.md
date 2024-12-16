@@ -8,11 +8,11 @@
 
 💻 Eu sou uma desenvolvedora [ Back-End | Front-End | Fullstack ]
 
-🔎 Também sou curiosa sobre [Cloud | IA | Mobile | SQL | AWS]
+🔎 Também sou curiosa sobre [Cloud | IA | Mobile | Data Analysis ]
 
-🎓 Eu estudo [ [Análise e Desenvolvimento de Sistemas](https://www.fiap.com.br/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/) | Tecnólogo ]
+🎓 Formada em [ [Análise e Desenvolvimento de Sistemas](https://www.fiap.com.br/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/) | Tecnólogo ]
 
-👩‍💻 Atualmente eu trabalho com [Engenharia e Suporte Técnico | Projetos de Desenvolvimento] - [The Walt Dinsey Company & ESPN]
+👩‍💻 Tenha experiência de trabalho como [Engenharia e Suporte Técnico | Projetos de Desenvolvimento] - [The Walt Dinsey Company & ESPN]
 
 <br>
 
